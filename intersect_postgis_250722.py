@@ -10,7 +10,7 @@ from PyQt6.QtWidgets import (
 )
 from shapely.geometry import mapping, shape
 from PyQt6.QtCore import Qt
-
+# Esse é um teste
 DARK_STYLE = """
 QWidget {
     background-color: #232629;
